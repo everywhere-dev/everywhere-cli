@@ -7,7 +7,7 @@ import (
 	"github.com/everywhere-dev/everywhere-cli/cmd"
 )
 
-var version = "1.0.0"
+var version = "0.1.1"
 
 func main() {
 	root := cmd.NewRootCmd()
